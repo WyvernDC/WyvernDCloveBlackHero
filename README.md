@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WyvernDCloveBlackHero
+- 👋 Hi, I’m @WyvernDC
 - 👀 I’m interested in - Games,Reading manga,Anime,photography and real art
 - 🌱 I’m currently learning - programming in python
 - 💞️ I’m looking to collaborate on -nothing yet
